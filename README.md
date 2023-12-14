@@ -1,4 +1,4 @@
-# Simple Web Development Template
+# Simple Webpage Development
 
 This project is a clean and customizable web development template designed for ease of use and flexibility.
 
